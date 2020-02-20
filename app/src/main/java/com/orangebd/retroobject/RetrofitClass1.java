@@ -1,5 +1,7 @@
 package com.orangebd.retroobject;
 
+import android.content.res.Resources;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import retrofit2.Retrofit;
@@ -7,8 +9,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitClass1 {
 
-    private static final String BASE_URL="http://eksheba.gov.bd/";
-    //private static final String BASE_URL="http://admin.service.gov.bd/";
+    private static final String BASE_URL="";
     private static Retrofit retrofit;
 
 

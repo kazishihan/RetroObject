@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RetroObject</string>
+
+    <string name="url">http://eksheba.gov.bd/</string>
 </resources>
